@@ -1,0 +1,6 @@
+django-ninja
+ipdb
+black==22.3.0
+pytest
+psycopg2-binary
+python-pptx
